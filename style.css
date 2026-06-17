@@ -1,0 +1,38 @@
+h2
+{
+    transition: 1s;
+color: blue;
+}
+
+p
+{
+color: brown;
+}
+
+body
+{
+    background-color: black;
+    transition: 1s;
+    font-size:  22px;
+font-family: Arial, Helvetica, sans-serif;
+line-height: 101.2px;
+/* background-color: rgb(from color 222 153 60); */
+
+}
+
+.RGG
+{
+  
+    color:  red;
+    transition: 1s;
+
+}
+
+
+
+#tt
+{
+    font-style: inherit;
+
+
+}
